@@ -19,6 +19,8 @@ class MpesaB2CRequests
 
     private $SEC;
 
+    private $SEC_ADDED_THERE;
+
     const ACCOUNT = 'ACCOUNT';
 
     public function __construct()
